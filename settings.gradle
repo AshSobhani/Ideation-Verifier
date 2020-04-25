@@ -1,0 +1,2 @@
+rootProject.name='Ideation Verifier'
+include ':app'
